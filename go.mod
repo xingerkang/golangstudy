@@ -1,4 +1,4 @@
-module "github.com/gohouse/golangstudy"
+module "github.com/xingerkang/golangstudy"
 
 go 1.16
 
